@@ -7,6 +7,6 @@ nei$year <- as.factor(nei$year)
 
 png(filename = "plot1.png", width = 480, height = 480, units = "px")
 with(nei,boxplot(Emissions~year, outline = FALSE, col=c("blue","green","yellow","red"),
-                 ylab= "Emission", xlab="year", main="Total Emissions per year"))
+                 ylab= "Emissions", xlab="year", main="Total Emissions per year"))
 
 dev.off()
