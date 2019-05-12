@@ -2,6 +2,8 @@
 nei <- readRDS("summarySCC_PM25.rds")
 
 library(dplyr)
+library(stringr)
+library(ggplot2)
 
 nei <- as_tibble(nei)
 head(nei)
