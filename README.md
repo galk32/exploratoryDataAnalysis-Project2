@@ -1,6 +1,6 @@
 # exploratoryDataAnalysis-Project2
 
-This folder contains five R scripts for a Coursera project2(exploratory Data Analysis) and the plots(png files) made by these scripts.
+This folder contains five R scripts for a Coursera project2(exploratory Data Analysis) and the plots(png files)which were made by these scripts.
 
 
 ##-----------------------------------------------------------------------------------------------------------------------------
