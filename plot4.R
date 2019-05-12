@@ -4,6 +4,7 @@ scc <- readRDS("Source_Classification_Code.rds")
 
 library(dplyr)
 library(stringr)
+library(ggplot2)
 
 nei <- as_tibble(nei)
 scc <- as_tibble(scc)
